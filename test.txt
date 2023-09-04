@@ -1,0 +1,32 @@
+git  --version
+
+git config --global user.name "Username"
+git config --global user.email "Your email"
+
+git config user.name
+git config user.email
+
+git status 
+
+git init
+
+git add filename
+
+git add . 
+
+git commit -m " adding file"
+
+clear
+
+$ git commit -a -m "file modified"
+
+ls
+cd
+git remote add origin github-repo-ulr
+
+git remote -v 
+git add test.txt
+
+git commit - "commit message"
+
+git push origin master 
